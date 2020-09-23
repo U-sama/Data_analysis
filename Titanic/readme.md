@@ -9,6 +9,7 @@
 
 >
 This is the titanic dataset from kaggle 
+
 link : https://www.kaggle.com/c/titanic/overview
 this data include 12 column and 891 record
 columns ar
